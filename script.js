@@ -30,3 +30,19 @@ document.querySelectorAll('a[href^="#"]').forEach((link) => {
     target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 });
+
+
+const cursorLabel = document.createElement('div');
+cursorLabel.className = 'cursor-label';
+cursorLabel.textContent = 'VIEW';
+document.body.appendChild(cursorLabel);
+
+if (window.matchMedia('(pointer:fine)').matches) {
+  document.querySelectorAll('.image-card').forEach((card) => {
+    card.addEventListener('pointermove', (e) => {
+      cursorLabel.style.transform = `translate3d(${e.clientX + 14}px,${e.clientY + 14}px,0)`;
+      cursorLabel.classList.add('on');
+    });
+    card.addEventListener('pointerleave', () => cursorLabel.classList.remove('on'));
+  });
+}
