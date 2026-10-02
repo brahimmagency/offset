@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+<rect width="1000" height="1000" fill="#d8ff3e"/>
+<rect x="58" y="58" width="884" height="884" fill="none" stroke="#11110f" stroke-width="6"/>
+<text x="500" y="465" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="150" font-weight="900" letter-spacing="-8" fill="#11110f">OFFCUT</text>
+<line x1="145" y1="560" x2="855" y2="560" stroke="#11110f" stroke-width="6"/>
+<text x="500" y="640" text-anchor="middle" font-family="Arial Narrow,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="5" fill="#11110f">WEBSITES / POINT OF VIEW</text>
+<text x="500" y="855" text-anchor="middle" font-family="Arial Narrow,Arial,sans-serif" font-size="32" fill="#11110f">OFFCUT.STUDIO</text>
+</svg>
