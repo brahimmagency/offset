@@ -257,3 +257,6 @@ h1 em,.approach-title i,.contact h2 i{font-family:var(--serif);font-weight:400;t
 .teaser-link{border-bottom:1px solid var(--ink);padding-bottom:6px}
 @media(max-width:980px){.teaser-grid{grid-template-columns:repeat(2,1fr)}.style-library-teaser{width:min(var(--wide),calc(100% - 28px))}}
 @media(max-width:600px){.teaser-grid{grid-template-columns:1fr}}
+
+.contact-actions{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}.contact-secondary{background:var(--ink);color:var(--lime)}.contact-secondary:hover{background:var(--lime);color:var(--ink)}
+@media(max-width:560px){.contact-actions{justify-content:flex-start}}
