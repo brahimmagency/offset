@@ -1,0 +1,1 @@
+const filters=document.querySelectorAll('.filter');const cards=document.querySelectorAll('.style-card');filters.forEach(btn=>btn.addEventListener('click',()=>{filters.forEach(x=>x.classList.remove('active'));btn.classList.add('active');const f=btn.dataset.filter;cards.forEach(c=>c.classList.toggle('is-hidden',f!=='all'&&!c.classList.contains(f)))}));
