@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#f2efe6"/>
+<rect x="55" y="55" width="970" height="1240" fill="none" stroke="#11110f" stroke-width="3"/>
+<line x1="55" y1="180" x2="1025" y2="180" stroke="#11110f" stroke-width="3"/>
+<text x="85" y="115" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#11110f">OFFCUT</text>
+<text x="995" y="115" text-anchor="end" font-family="Arial Narrow,Arial,sans-serif" font-size="26" fill="#11110f">01 / 08</text>
+<rect x="730" y="250" width="235" height="235" fill="#d8ff3e" stroke="#11110f" stroke-width="3"/>
+<line x1="760" y1="285" x2="935" y2="285" stroke="#11110f" stroke-width="7"/>
+<line x1="760" y1="330" x2="900" y2="330" stroke="#11110f" stroke-width="7"/>
+<line x1="760" y1="375" x2="920" y2="375" stroke="#11110f" stroke-width="7"/>
+<line x1="760" y1="420" x2="875" y2="420" stroke="#11110f" stroke-width="7"/>
+<text x="85" y="330" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#11110f">4 visual directions for one coffee shop</text>
+<text x="85" y="430" font-family="Arial Narrow,Arial,sans-serif" font-size="34" font-weight="700" fill="#d84b2f">CALM / WARM / GALLERY / NIGHT</text>
+<foreignObject x="85" y="600" width="800" height="260"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:38px;line-height:1.22;color:#11110f">4 visual directions for one coffee shop. The niche tells us what it is. The direction tells people how it feels.</div></foreignObject>
+<line x1="85" y1="1170" x2="995" y2="1170" stroke="#11110f" stroke-width="3"/>
+<text x="85" y="1215" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#11110f">NICHE → ATTITUDE → SYSTEM</text>
+<text x="995" y="1215" text-anchor="end" font-family="Arial Narrow,Arial,sans-serif" font-size="28" fill="#11110f">OFFCUT.STUDIO</text>
+</svg>
